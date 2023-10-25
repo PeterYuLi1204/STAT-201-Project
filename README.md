@@ -1,3 +1,3 @@
 # STAT 201 Project
 
-## Contributors: Peter, Charisse
+## Contributors: Peter, Charisse, Mandy
